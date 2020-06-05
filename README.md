@@ -27,5 +27,6 @@ Other useful commands to see what is going on the git repository:
 - [ ] Create a new branch named "branch-1" and push to Github
 
 ## Practice Output 
-1. Your repo url in Github
+1. Your repo url in Github : https://github.com/haohao6683/git-basic.git
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+   Answer:`Add` means adding changes to the staging area, `commit` means committing the staged file to the repository with some description, while `push` means pushing the commited file to the remote repository.
